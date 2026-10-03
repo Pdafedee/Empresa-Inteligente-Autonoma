@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Ramonov Swarm Studio — Empresa Virtual de Software con LangGraph",
+  "description": "Plataforma de creación y orquestación de empresas virtuales de desarrollo de software con empleados Agentes IA en Python y LangGraph. Compacto, robusto y profesional, sin Docker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
